@@ -1,4 +1,4 @@
-# Pemrograman-Dasar-JavaScript
+# Pemrograman Dasar JavaScript
 Latihan Soal Dasar Pemrograman dengan JavaScript
 
 <h1>HASIL OUTPUT LATIHAN JS</h1>
